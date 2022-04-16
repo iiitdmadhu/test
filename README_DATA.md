@@ -13,7 +13,9 @@ Datasets used in the shared scripts can be found at  <a> <href> https://github.c
   <li> Bayesian derived pathways list for validation : https://github.com/reggenlab/Sci-PDC/blob/main/SCI_PDC_DATA/bay_norm_path_nlp.txt </li>
   <li> PubMed IDs for random pathways associations : https://github.com/reggenlab/Sci-PDC/blob/main/SCI_PDC_DATA/bay_norm_pathways_match_pids.csv </li>
   <li> PubMed entries for random pathways associations : https://github.com/reggenlab/Sci-PDC/blob/main/SCI_PDC_DATA/bay_norm_pathways_matches.csv </li>
-    
+  
+  <li> Comparison of muliple apporoaches of sci-PDC based on PubMed validations : https://github.com/reggenlab/Sci-PDC/blob/main/SCI_PDC_DATA/box_literaute.csv </li>
+  
   <li> Correlation file of case study 1: https://github.com/reggenlab/Sci-PDC/blob/main/SCI_PDC_DATA/comb_corr_sager.csv </li>
   <li> Correlation file of case study 2 : https://github.com/reggenlab/Sci-PDC/blob/main/SCI_PDC_DATA/comb_corr_spe.csv </li>
     <li> Correlation file of case study 3 : https://github.com/reggenlab/Sci-PDC/blob/main/SCI_PDC_DATA/comb_corr_file.csv </li>
